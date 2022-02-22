@@ -1,0 +1,486 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    
+}
+
+.a {
+    width: 1100px;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.b {
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    padding: 3px 3px;
+    box-shadow: 0px 1px rgb(245, 227, 227);
+}
+
+.header_logo {
+    width: 40%;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+.b1 {
+    margin-left: 65%;
+    width: 60%;
+    margin-top:2% ;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+    font-style: oblique;
+}
+
+.b1 a {
+    margin-left: 2%;
+    margin-right: 3%;
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(169, 169, 172);
+}
+
+.btn1:hover {
+    color: rgb(29, 115, 201);
+}
+.btn2:hover {
+    color: rgb(29, 115, 201);
+}
+.btn3:hover {
+    color: rgb(29, 115, 201);
+}
+.btn4:hover {
+    color: rgb(29, 115, 201);
+}
+.btn5:hover {
+    color: rgb(29, 115, 201);
+}
+
+.b1 img {
+    width: 25px;
+}
+
+.q {
+    width: 80%;
+}
+
+.k {
+    width: 80%;
+    margin-left: 5%;
+}
+.s img {
+    margin-top: 5%;
+    width: 60%;
+    margin-left: 40%;
+    margin-right: 35%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.d {
+    margin-left: 35%;
+}
+
+.d h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-left: 5%;
+    padding: auto;
+}
+
+.d p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.d a {
+    margin: 10px 25px;
+    margin-left: 36%;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px 40px;
+    border-radius: 7%;
+}
+
+.btn6 {
+    width:15%;
+    text-align: center;
+    font-style: oblique;
+}
+
+.btn6 {
+    background-color: rgb(80, 157, 219);
+    color: white;
+    width: 400px;
+    height: 200px;
+    border: 1px solid blue;
+    border-radius: 15%;
+}
+
+.btn6:hover {
+    background-color: rgb(51, 114, 177);
+    color: white;
+}
+
+.c {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding: auto;
+}
+
+.l {
+    width:45%;
+    display: inline-block;
+}
+
+.l h3 {
+    font-size: 35px;
+}
+
+.l p {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.l ul {
+    margin-right: 3px;
+    margin-left: 5%;
+    display: inline-block;
+}
+
+.r1 img {
+    width: 90%;
+}
+.g {
+    display: inline-block;
+    width: 50%;
+}
+
+.g img {
+    width: 70%;
+}
+
+.i {
+    width: 70%;
+    margin-left: 3px;
+}
+
+.n {
+    margin-top: 5%;
+    width: 100%;
+    margin-left: 18%;
+    margin-right: 15%;
+}
+
+.n img {
+    width: 100%;
+}
+
+.v {
+    margin-left: 35%;
+}
+
+.v h1 {
+    text-align: center;
+    font-size: 45px;
+    margin-left: 5%;
+    padding: auto;
+}
+
+.v p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.v a {
+    margin: 10px 25px;
+    margin-left: 36%;
+    text-decoration: none;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.btn7 {
+    width:15%;
+    margin-left: 55%;
+}
+
+.btn7 {
+    color: blue;
+}
+
+.btn7:hover {
+    color: black;
+}
+
+.a1 {
+    width: 70%;
+    margin: auto;
+    padding: auto;
+}
+
+.a4 {
+    width: 45%;
+    display: inline-block;
+    margin-right:8%;
+}
+
+.a4 h2 {
+    font-size: 35px;
+}
+
+.a4 p {
+    font-size: 20px;
+    width: auto;
+}
+
+.btna {
+    width: 15%;
+    margin:auto;
+    text-decoration: none;
+}
+
+.btna:hover {
+    color: black;
+}
+
+.a5 {
+    width: 22%;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 3px;
+}
+
+.a5 h3{
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.a5 p {
+    font-weight: 200;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.border {
+    border-top: 1px solid rgb(224, 211, 211);
+    border-bottom: 1px solid rgb(224, 211, 211);
+    border-left: 1px solid rgb(224, 211, 211);
+    border-right: 1px solid rgb(224, 211, 211);
+}
+
+.a6 {
+    width: 22%;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.a6 h3{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.a6 p {
+    font-weight: 200;
+    flex-wrap: wrap;
+}
+
+.border {
+    border-top: 1px solid rgb(224, 211, 211);
+    border-bottom: 1px solid rgb(224, 211, 211);
+    border-right: 1px solid rgb(224, 211, 211);
+}
+
+.c1 {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding: auto;
+}
+
+.y {
+    width:40%;
+    display: inline-block;
+    padding: auto;
+}
+
+.y h3 {
+    font-size: 30px;
+}
+
+.y p {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.u {
+    display: inline-block;
+    width: 50%;
+}
+
+.u img {
+    width: 75%;
+}
+
+.y a {
+    text-decoration: none;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.r2 {
+    width:15%;
+}
+
+.r2 {
+    color: blue;
+}
+
+.r2:hover {
+    color: black;
+}
+
+.d1 {
+    width: 80%;
+}
+
+.l1 {
+    width: 80%;
+    margin-left: 5%;
+}
+
+.v1 {
+    margin-left: 35%;
+}
+
+.v1 h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-left: 5%;
+    padding: auto;
+}
+
+.v1 p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.v1 a {
+    margin: 10px 25px;
+    margin-left: 36%;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px 40px;
+    border-radius: 7%;
+}
+
+.btnb {
+    width:15%;
+    text-align: center;
+    font-style: oblique;
+}
+
+.btnb {
+    background-color: rgb(80, 157, 219);
+    color: white;
+    width: 400px;
+    height: 200px;
+    border: 1px solid blue;
+    border-radius: 15%;
+}
+
+.btnb:hover {
+    background-color:black;
+    color: white;
+}
+
+.n1 {
+    width: 80%;
+    flex-wrap: wrap;
+}
+
+.n2 {
+    margin-left: 15%;
+}
+
+.n3 {
+    display: inline-block;
+    width: 35%;
+}
+
+.n3 p{
+    flex-wrap: wrap;
+    margin-top: 5%;
+}
+
+.logo1 {
+    width: 45%;
+}
+
+.n3 {
+    font-size: 15px;
+}
+.n4 {
+    display: inline-block;
+    width: 15%;
+    margin-right: 5%;
+    padding: auto;
+}
+
+.n4 a {
+    color: black;
+    text-decoration: none;
+    width: 25%;
+    font-size: 20px;
+}
+
+.m1:hover {
+    color: blue;
+}
+
+.k1 {
+    width: 80%;
+    font-size: 12px;
+}
+
+.k3 p {
+    margin-left: 25%;
+    margin-right: 30%;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.k4 {
+    margin-left: 25%;
+}
+
+.k4 a {
+    color: rgb(173, 168, 168);
+    display: inline-block;
+    text-decoration: none;
+    width: 11%;
+    font-size: 12px;
+}
+
+.m2:hover {
+    color: blue;
+}
